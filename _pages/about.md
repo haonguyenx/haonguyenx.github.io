@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Data Analyst</a>. Hanoi. +84968760810. Book. Chill.
+subtitle: <a href='#'>Data Analyst</a>. Hanoi. (84) 968 760 810. Book. Chill.
 
 profile:
   align: right
