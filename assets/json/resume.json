@@ -44,7 +44,7 @@
       "studyType": "Bachelor",
       "startDate": "2015-09-05",
       "endDate": "2019-09-05",
-      "score": "3.37"
+      "score": ["3.37"]
     }
   ],
   "awards": [
@@ -55,12 +55,18 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
-  "certificates": [],
+  "certificates": [
+    {
+      "title": "Digital Literacy Certification - IC3 Certification",
+      "date": "2020-10-05",
+      "summary": "A global benchmark for basic computer literacy, including operating systems, hardware, software (almost Mircosoft Offices), and networks."
+    }
+  ],
   "publications": [],
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Vietnamese",
       "fluency": "Native speaker"
     },
     {
