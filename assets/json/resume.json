@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Nguyen Van Hao",
+    "label": "Data Analyst",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "haonguyen.drew@gmail.com",
+    "phone": "(84) 968 760 810",
+    "url": "https://haonguyenx.github.io/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "No 1/29/68 Trieu Khuc, Thanh xuan",
+      "postalCode": "1000000",
+      "city": "Hanoi",
+      "countryCode": "VN",
+      "region": "Northside"
     },
     "profiles": [
       {
